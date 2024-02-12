@@ -6,11 +6,11 @@ const app = express();
 const port = 3000;
 
 // URL du site
-const url = "https://ismcserver.online/unneuiltapeur.aternos.me";
+const url = "https://ismcserver.online/your-server-discord";
 
 // URL du webhook Discord
 const webhookUrl =
-  "https://discord.com/api/webhooks/1206346842586087504/4AXiRHg-br7apUmm7U0YJHnJYXeuOXYJbUYlVA_s66-H_JVA9PL5a-le6bAilHS8j9Il";
+  "https://discord.com/api/webhooks/your-webhook";
 
 // Contenu précédent
 let previousContent = null;
