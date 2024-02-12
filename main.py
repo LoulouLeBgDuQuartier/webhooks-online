@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 
 // URL du site
-const url = "https://ismcserver.online/your-server-discord";
+const url = "https://ismcserver.online/your-server-ip-minecraft";
 
 // URL du webhook Discord
 const webhookUrl =
